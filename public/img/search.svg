@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.637" height="16.637" viewBox="0 0 16.637 16.637">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:none;stroke:#111;stroke-linecap:square;stroke-width:.5px}.cls-2{stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="zoom-2" transform="translate(-1.475 -1.475)">
+        <path id="Path_5" d="M4.22 4.233L1.058 1.06" class="cls-1" data-name="Path 5" transform="translate(13.538 13.526)"/>
+        <circle id="Ellipse_1" cx="7.5" cy="7.5" r="7.5" class="cls-2" data-name="Ellipse 1" transform="translate(1.725 1.725)"/>
+    </g>
+</svg>

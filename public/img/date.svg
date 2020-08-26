@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+    <defs>
+        <style>
+            .cls-1{fill:#111}
+        </style>
+    </defs>
+    <g id="calendar-60" transform="translate(-1 -1)">
+        <path id="Path_2" d="M12.109 1h-.739a.369.369 0 0 0-.37.37v2.587a.369.369 0 0 0 .37.37h.739a.369.369 0 0 0 .37-.37V1.37a.369.369 0 0 0-.37-.37z" class="cls-1" data-name="Path 2" transform="translate(-6.304)"/>
+        <path id="Path_3" d="M34.109 4.326h-.739a.37.37 0 0 1-.37-.37V1.37a.37.37 0 0 1 .37-.37h.739a.37.37 0 0 1 .37.37v2.587a.37.37 0 0 1-.37.369z" class="cls-1" data-name="Path 3" transform="translate(-20.174)"/>
+        <path id="Path_4" d="M17.261 5h-2.218v2.217a.37.37 0 0 1-.37.37h-2.216a.37.37 0 0 1-.37-.37V5H6.913v2.217a.37.37 0 0 1-.37.37H4.326a.37.37 0 0 1-.37-.37V5H1.739A.739.739 0 0 0 1 5.739v14.044a.739.739 0 0 0 .739.739h15.522a.739.739 0 0 0 .739-.739V5.739A.739.739 0 0 0 17.261 5zm-.37 14.783H2.109a.37.37 0 0 1-.37-.37V9.435a.37.37 0 0 1 .37-.37h14.782a.37.37 0 0 1 .37.37v9.978a.37.37 0 0 1-.37.37z" class="cls-1" data-name="Path 4" transform="translate(0 -2.522)"/>
+    </g>
+</svg>

@@ -1,0 +1,2460 @@
+@media(max-width:1367px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .invite_inner h5,
+    .invite_icon h2 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+}
+
+@media(max-width:1199px) {
+    .booking_area .booking_text .hard_para {
+        width: 313px;
+    }
+
+    .booking_area_inner .checkbtn {
+        margin-top: 184px;
+    }
+
+    .modal_rht {
+        padding: 50px 60px 70px;
+    }
+
+    /*    Home Page Start*/
+
+    .discTreatment .treatmentBoxs .treatmentDesign {
+        height: 410px;
+    }
+
+    .discTreatment .treatmentBoxs {
+        padding: 0 5px;
+    }
+
+    .discTreatment .treatmentBoxs .treatmentName h3 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+
+    .discTreatment .treatmentBoxs .treatmentName p {
+        margin-top: 5px;
+    }
+
+    .discTreatment .treatmentBoxs .treatmentName {
+        padding: 0 10px;
+    }
+
+    .discTreatment .treatmentInner h2 {
+        font-size: 45px;
+        line-height: 50px;
+        margin-bottom: 40px;
+    }
+
+    .discTreatment .treatmentInner {
+        padding: 70px 0px 30px;
+    }
+
+    .browseCity .browseTop h2 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .browseCity .browseInner {
+        padding: 0;
+    }
+
+    .browseCity .browseBtm ul li a {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .footer .footLeft h2 {
+        font-size: 31px;
+        line-height: 40px;
+    }
+
+    .footer .footRight h3 {
+        font-size: 18px;
+    }
+
+    .footer .footRight .talktoUs {
+        /*    margin-top: 15px;*/
+    }
+
+    .footer .footRight ul li a {
+        font-size: 14px;
+    }
+
+    .footer .footLeft p br {
+        display: none;
+    }
+
+    .footer .leftContent p {
+        padding-right: 35px;
+    }
+
+    .footer .footLeft .socialApp a {
+        width: 175px;
+    }
+
+    .footer .copyright p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .container-fluid {
+        padding: 0 25px;
+    }
+
+    .footer .feetMenu ul li a {
+        font-size: 15px;
+    }
+
+    .footer .leftContent p br {
+        display: none;
+    }
+
+    .footer .leftContent h2 {
+        font-size: 30px;
+    }
+
+    .footer .leftContent h2 {
+        font-size: 28px;
+    }
+
+    .discTreatment .workBeautishian .treatmentBoxs .treatmentName h3 {
+        font-size: 27px;
+        line-height: 34px;
+    }
+
+
+    /*    Home Page end*/
+
+
+    /*    Login Page*/
+
+    .login_outer .col_text_left {
+        padding-right: 15px;
+    }
+
+    .login_outer .col_text_left img {
+        width: 95%;
+    }
+
+    .login_outer .col_text_left p {
+        font-size: 16px;
+        line-height: 23px;
+    }
+
+    .booking_area_inner .form-group .log_email {
+        padding: 10px 0;
+    }
+
+    /*    Personal Details Start*/
+
+    .persnldetails .detailsForm .form-group label {
+        margin-right: 100px;
+    }
+
+    /* search start */
+    .search_btn button {
+        margin-top: 29px;
+    }
+
+    /* search end */
+    /* store start */
+    .location_sec {
+        width: 233px;
+    }
+
+    /* store end */
+
+    /*    details media start for 1199*/
+
+    .option_right {
+        padding-left: 20px;
+    }
+
+    .option_left ul li a,
+    .option_left ul li a:hover,
+    .option_left ul li a.active {
+        width: 100%;
+        padding: 10px 20px;
+    }
+
+    .upper_mid {
+        text-align: center;
+    }
+
+    .lowwer_list ul li:before {
+        left: -12px;
+    }
+
+    .remove a {
+        margin-top: 20px;
+    }
+
+    .copan_img {
+        width: 109px;
+        height: 125px;
+    }
+
+    .copan_img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .copan_middle h2 {
+        font-size: 20px;
+        line-height: 22px;
+    }
+
+    .copan_middle p {
+        font-size: 16px;
+        line-height: 18px;
+        padding: 12px 0px;
+    }
+
+    .copan_right p {
+        font-size: 27px;
+        font-family: 'AvenirNextMedium';
+        line-height: 49px;
+        color: #ffffff;
+        background: var(--color-orange);
+        /*        width: 148px;*/
+
+    }
+
+    .coupons_card .col-sm-7 {
+        padding-left: 12px;
+    }
+
+    .option_right .invite_btn .btn3 {
+        padding: 13px 17px;
+        width: auto;
+
+    }
+
+    /*    details media end*/
+
+    /*    Confirmation Page Start*/
+
+    .confirmation .confirmTop .confirmRight .scheduleBtn a {
+        width: 160px;
+    }
+
+    .confirmation .confirmTop .confirmInner .confirmLeft .confirmDtl {
+        padding-right: 50px;
+    }
+
+    .discTreatment .treatmentBoxs .treatmentName {
+        height: 190px;
+    }
+
+    .browseCity .locationMap {
+        height: 320px;
+    }
+
+    /*    Confirmation Page End*/
+
+    /*    Detail Page StartB*/
+
+    .option_right .invite_input .form-control {
+        line-height: 27px;
+    }
+
+    .about_beauty_text p {
+        font-size: 20px;
+        margin-top: 25px;
+    }
+
+    .invite_inner h5,
+    .invite_icon h2 {
+        font-size: 20px;
+    }
+
+    .option_right .invite_input .form-control {
+        font-size: 18px;
+    }
+
+    .invite_icon ul li {
+        height: 55px;
+        width: 55px;
+        margin-right: 20px;
+    }
+
+    .option_right .invite_btn .btn3 {
+        font-size: 19px;
+    }
+
+    .option_list .col-sm-9.rgtBoxs {
+        padding-left: 65px;
+    }
+
+    /*    Detail Page End*/
+    .eros_rt .loc_row li a {
+        padding-right: 15px;
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+
+}
+
+@media(max-width:991px) {
+    .header{
+        padding: 12px 0 15px;
+    }
+    .eros_row .eros_detail p {
+        font-size: 15px;
+        margin-bottom: 8px;
+    }
+    .eros_rt a.quick {
+    font-size: 13px;
+    }
+
+    .eros_detail ul li {
+        padding-right: 2px;
+    }
+
+    .eros_detail {
+        min-height: 275px;
+    }
+
+    .eros_lt_detail {
+        height: 260px;
+    }
+
+    .eros_detail .loc_row li a {
+        display: inline-block;
+        ;
+        margin-bottom: 6px;
+    }
+
+    .eros_rt a.venue {
+        padding: 11px 56px;
+    }
+
+    .booking_area_last {
+        padding: 0px 20px 40px;
+    }
+
+    .login_outer .booking_area_inner1 .form-group .form-control {
+        padding: 6px 17px 6px 0px;
+    }
+
+    .booking_area .booking_text .hard_para {
+        width: 259px;
+
+    }
+
+    .booking_area .total_rder {
+        margin-top: 123px;
+    }
+
+    /*    Home Page start*/
+
+    .discTreatment .treatmentInner h2 {
+        font-size: 40px;
+        line-height: 45px;
+        margin-bottom: 35px;
+    }
+
+    .discTreatment .treatmentInner {
+        padding: 60px 0px 30px;
+    }
+
+    .discTreatment .treatmentBoxs .treatmentDesign {
+        height: 340px;
+    }
+
+    .discTreatment .treatmentBoxs .treatmentName h3 {
+        font-size: 27px;
+        line-height: 32px;
+    }
+
+    .discTreatment .treatmentBoxs .treatmentName p {
+        /*    margin-top: 0px;*/
+        line-height: 18px;
+    }
+
+    .discTreatment .treatmentBoxs {
+        padding: 0px;
+        margin-bottom: 35px;
+    }
+
+    .browseCity .cityAvailabel .browseTop,
+    .browseCity .cityAvailabel .browseBtm {
+        width: 100%;
+    }
+
+    .browseCity .browseTop h2 {
+        font-size: 17px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    .footer .footLeft h2 {
+        font-size: 27px;
+        line-height: 35px;
+    }
+
+    .footer .footLeft p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .footer .footRight h3 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .footer .footLeft .socialApp a {
+        width: 150px;
+        margin-right: 20px;
+    }
+
+    /*
+    .footer .footerTop .footRight .col-sm-6 {
+        padding: 0 10px;
+    }
+*/
+
+    .banner .appointInner h2 {
+        font-size: 19px;
+        line-height: 27px;
+        margin-bottom: 15px;
+    }
+
+    .banner .appointInner form label {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .footer .footContent {
+        display: block;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .footer .footContent p {
+        padding-right: 0;
+    }
+
+    .footer .footList {
+        width: 70%;
+        display: inline-block;
+        float: left;
+    }
+
+    .footer .socialBox {
+        width: 30%;
+        display: inline-block;
+    }
+
+    .footer .copyright {
+        margin-top: 30px;
+    }
+
+    .discTreatment .workBeautishian .treatmentBoxs .treatmentName h3 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+
+    /*    Home Page end*/
+
+
+
+    .my_booking {
+        margin-top: 100px;
+    }
+
+    .my_booking .booking_area {
+        padding: 20px 20px;
+        min-height: 529px;
+    }
+
+    .booking_area_inner .bok_border span {
+        bottom: 15px;
+    }
+
+    .my_booking .booki {
+        padding: 20px 20px;
+    }
+
+    .booking_area .booking_area_inner .appo {
+        padding: 0px;
+    }
+
+    .booking_area .booking_area_inner .appo p {
+        margin-bottom: 11px;
+    }
+
+    .booking_area_inner .form-group .form-control {
+        padding: 6px 17px 6px 26px;
+    }
+
+    .booking_area_inner .checkbtn {
+        margin-top: 189px;
+    }
+
+    .my_booking .booking_area .booking_area_inner {
+        padding: 0px;
+    }
+
+    /*    Login Page*/
+
+    .booking_area_inner .log_btn {
+        margin-top: 20px;
+    }
+
+    .booking_area_inner .log_btn button {
+        float: left;
+    }
+
+    /*    Personal Details Start*/
+
+    .persnldetails .detailsInner {
+        padding: 50px 0px;
+    }
+
+    /* search :start */
+    .search_section {
+        padding: 30px 0px;
+    }
+
+    .eros_row .col-sm-3 {
+        width: 35%;
+    }
+
+    .eros_row .col-sm-9 {
+        width: 65%;
+    }
+
+    .eros_rt {
+        padding: 20px 15px 20px 76px;
+    }
+
+    .eros_rt a.quick {
+        margin-left: 76px;
+    }
+
+    /* search end */
+    /* store start */
+    .reiv_re_lt ul li img {
+        width: 16px;
+        margin-left: 3px;
+    }
+
+    .day_r h4 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .store_review {
+        margin-bottom: 50px;
+    }
+
+    .arched h4 {
+        font-size: 14px;
+    }
+
+    .days_list ul li span {
+        float: left;
+        display: block;
+        margin: 5px 0px;
+    }
+
+    .orange_sec {
+        padding: 40px 15px 50px;
+    }
+
+    .location_sec {
+        width: 100%;
+    }
+
+    /* store end */
+
+    /*details media start for 991*/
+    .option_right {
+        padding-left: 0px;
+    }
+
+    .booking_upper .col-sm-4 {
+        width: 171px;
+    }
+
+    .booking_upper .col-sm-2 {
+        width: 100px;
+    }
+
+    .upper_left h5 {
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .upper_mid p {
+        line-height: 30px;
+    }
+
+    .upper_right a {
+        line-height: 25px;
+        float: left;
+    }
+
+    .lowwer_list ul li:before {
+        left: 23px;
+    }
+
+    .lower_img {
+        width: 80px;
+        height: 100px;
+    }
+
+    .lower_img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .lowwer_list {
+        padding-top: 5px;
+    }
+
+    .lowwer_list ul li {
+        font-size: 12px;
+        line-height: 17px;
+        padding-left: 35px;
+
+    }
+
+    .method_inner label {
+        font-size: 16px;
+    }
+
+    .copan_middle h2 {
+        font-size: 18px;
+        line-height: 20px;
+        margin-left: 40px;
+    }
+
+    .copan_middle p {
+        font-size: 13px;
+        line-height: 18px;
+        padding: 6px 0px;
+        margin-left: 40px;
+    }
+
+    .copan_middle ul li:first-child {
+        font-size: 12px;
+        line-height: 19px;
+        margin-left: 38px;
+    }
+
+    .copan_middle ul li {
+        padding: 0px 1px;
+    }
+
+    .copan_middle ul li:last-child {
+        font-size: 12px;
+        line-height: 18px;
+        margin-top: 2px;
+        margin-left: 2px;
+    }
+
+    .copan_right p {
+        font-size: 17px;
+        line-height: 30px;
+        width: 94px;
+    }
+
+    .about_beauty_text p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .about_beauty_text p {
+        margin-top: 22px;
+    }
+
+    .invite_left .col-sm-9 {
+        width: 100%;
+    }
+
+    .invite_left .col-sm-3 {
+        padding: 0;
+    }
+
+    .invite_icon ul li {
+        height: 50px;
+        width: 50px;
+        margin-right: 15px;
+    }
+
+    .option_list .col-sm-3.leftTabs {
+        width: 30%;
+    }
+
+    .option_list .col-sm-9.rgtBoxs {
+        width: 70%;
+    }
+
+    .about_beauty_text p {
+        font-size: 18px;
+    }
+
+    /*details media ends*/
+
+    /*    Confirmation Page Start*/
+
+    .confirmation .confirmTop {
+        padding: 40px 30px;
+    }
+
+    .confirmation .confirmTop .confirmDtl .schedule p {
+        font-size: 18px;
+    }
+
+    .confirmation .confirmTop .confirmDtl .schedule p span {
+        font-size: 22px;
+    }
+
+    .confirmation .confirmTop .confirmDtl .schedule p {
+        font-size: 15px;
+    }
+
+    .confirmation .confirmTop .confirmInner .confirmLeft .confirmDtl {
+        padding-right: 15px;
+        margin-left: 20px;
+    }
+
+    .confirmation .confirmTop .confirmRight .scheduleBtn a {
+        width: 140px;
+        padding: 6px 0;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .confirmation .confirmTop .confirmDtl .schedule p img {
+        margin-right: 10px;
+    }
+
+    .confirmation .confirmationBtm {
+        padding: 30px 0;
+    }
+
+    .confirmation .confirmTop .confirmDtl .schedule {
+        margin-bottom: 13px;
+        padding-bottom: 6px;
+    }
+
+    .confirmationBtm .nail_sec h4 {
+        margin-top: 30px;
+    }
+
+    .discTreatment .treatmentBoxs .treatmentName {
+        height: 170px;
+    }
+
+    .browseCity .browseBtm ul li {
+        margin-bottom: 15px;
+    }
+
+    .browseCity .browseTop h2 {
+        margin-bottom: 15px;
+    }
+
+    /*    Confirmation Page End*/
+
+    /*    Detail Page StartB*/
+
+    .option_left ul li a {
+        font-size: 16px;
+    }
+
+    .option_left ul li a,
+    .option_left ul li a:hover,
+    .option_left ul li a.active {
+        padding: 8px 20px;
+    }
+
+    .option_right h3 {
+        font-size: 23px;
+    }
+
+    .option_right form .form-control {
+        font-size: 15px;
+    }
+
+    .option_right .invite_btn .btn3 {
+        font-size: 17px;
+        padding: 10px 17px;
+    }
+
+    .option_right .invite_input .form-control {
+        padding: 9px 15px;
+    }
+
+    .option_list .col-sm-9.rgtBoxs {
+        padding-left: 20px;
+    }
+
+    /*    Detail Page End*/
+    .invite_btn {
+        margin-left: 0px;
+    }
+    .catList ul {
+        padding-bottom: 50px;
+    }
+}
+
+@media(max-width:767px) {
+    
+    .store_lore2 li{
+    float: left;
+    padding: 4px 0px;
+}
+.store_lore2 ul {
+   float: none;
+}
+.store_lore2 ul li a i.fa{
+    font-size: 14px;
+}
+    
+    a.upp{
+        margin-top: -45px;
+    }
+    .eros_row .eros_lt_detail {
+        height: 289px;
+    }
+
+    .eros_detail .quick_detail {
+        display: flex;
+    }
+
+    .signindiv .signup_inner {
+        margin-top: 15px;
+        ;
+    }
+
+    .booking_area_last {
+        position: relative;
+        padding: 0px 0px 0px;
+    }
+
+    .booking_area .venues {
+        margin-top: 8px;
+        margin-bottom: 15px;
+    }
+
+    .getListed .accordion-container {
+        width: 100%;
+    }
+
+    .getListed .set > a {
+        padding: 10px 0;
+    }
+
+    .login_outer .col_text_left1 {
+        margin-top: 30px;
+    }
+
+    .modal_rht {
+        padding: 15px 30px 40px;
+    }
+
+    .signindiv .form_allmod {
+        margin-top: 10px;
+    }
+
+    .signin .modal-dialog {
+        width: 90%;
+        margin: 35px auto;
+    }
+
+    .login_btn button {
+        margin-top: 40px;
+    }
+
+    .modal_rht {
+        padding: 50px 30px 70px;
+    }
+
+    .booking_area .booking_text .hard_para {
+        width: 380px;
+    }
+
+    .booking_area .total_rder {
+        margin-top: 49px;
+    }
+
+    .checkbx .col-sm-7 {
+        padding: 0;
+    }
+
+    .checkbx .col-sm-5 {
+        padding: 0;
+    }
+
+    /*    Home Page Start*/
+
+    .banner .appointInner {
+        width: 390px;
+    }
+
+    .banner .appointInner form button {
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    .banner .appointInner p {
+        padding: 20px 0px 10px;
+    }
+
+    .discTreatment .treatmentInner {
+        padding: 45px 0px 30px;
+    }
+
+    .discTreatment .treatmentInner h2 {
+        font-size: 35px;
+        line-height: 38px;
+        margin-bottom: 30px;
+    }
+
+    .discTreatment .treatmentInner .treatmentOptn .col-sm-4 {
+        width: 50%;
+        float: left;
+    }
+
+    .discTreatment .treatmentBoxs .treatmentName h3 {
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .footer .footLeft h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+
+    .footer .footerTop .footRight .col-sm-6 {
+        width: 49%;
+        float: left;
+    }
+
+    .footer .copyright p {
+        margin-top: 15px;
+        text-align: center;
+    }
+
+    .footer {
+        padding: 30px 0;
+    }
+
+    .footer .footRight .footMenu ul li a {
+        margin-bottom: 8px;
+    }
+
+    .banner .appointInner {
+        padding: 20px;
+        width: 325px;
+    }
+
+    .footer .leftContent h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .footer .footList {
+        width: 65%;
+    }
+
+    .footer .socialBox {
+        width: 35%;
+    }
+
+    .footer .socialApp a {
+        width: 150px;
+        margin-bottom: 20px;
+    }
+
+    .footer .socialIcon {
+        margin-top: 20px;
+    }
+
+    .footer .feetMenu ul li a {
+        font-size: 14px;
+    }
+
+    .footer .feetMenu h3 {
+        font-size: 18px;
+    }
+
+    .footer .footList .col-sm-6 {
+        width: 50%;
+        display: inline-block;
+        float: left;
+    }
+
+    .footer .socialIcon ul li {
+        margin: 0;
+    }
+
+    .footer .copyright {
+        margin-top: 15px;
+    }
+
+    .footer .leftContent p {
+        font-size: 15px;
+    }
+
+    .container {
+        padding: 0 25px;
+    }
+
+    .browseCity .browseInner .row {
+        display: block;
+    }
+
+    .browseCity .browseInner .col-sm-8,
+    .browseCity .browseInner .col-sm-4 {
+        width: 100%;
+        display: block;
+        float: left;
+    }
+
+    .browseCity {
+        padding-bottom: 20px;
+    }
+
+    .browseCity .browseBtm ul li {
+        margin-bottom: 15px;
+    }
+
+    /*    Home Page End*/
+
+    .my_booking {
+        margin-top: 90px;
+    }
+
+    .my_booking .booking_area {
+        padding: 20px 20px;
+        min-height: initial;
+    }
+
+    .nopadding {
+        /*        padding: 0 15px;*/
+    }
+
+    .my_booking .booki {
+        margin-top: 15px;
+    }
+
+    .booking_area .total_rder {
+        margin-top: 49px;
+    }
+
+    .booking_area_inner .checkbtn {
+        margin-top: 49px;
+    }
+
+    .my_booking .mybook {
+        padding-top: 0px;
+    }
+
+    .booking_area_inner .bok_text label {
+        margin-top: 25px;
+    }
+
+    .privacy {
+        margin-top: 65px;
+    }
+
+    .login {
+        margin-top: 65px;
+        padding: 30px 0 130px;
+    }
+
+    .login_outer .col_text_left img {
+        width: 80%;
+    }
+
+    .booking_area_inner .log_btn {
+        margin-top: 20px;
+    }
+
+    .form_all {
+        margin-top: 45px;
+    }
+
+    .login_outer {
+        display: block;
+    }
+
+    .form_all .inner_text h3 {
+        font-size: 35px;
+        line-height: 28px;
+    }
+
+    .booking_area_inner .log_btn {
+        margin-top: 20px;
+    }
+
+    .login_outer .col_text_left {
+        padding-right: 0px;
+    }
+
+    .log_btn button {
+        float: left;
+    }
+
+    .login_outer .booking_area_inner .log_check label {
+        margin-top: 1px;
+    }
+
+    .booking_area_inner .form-group .log_email {
+        padding: 10px 0;
+    }
+
+    /*personal-details starts */
+
+    .persnldetails form .detailsForm input {
+        margin-bottom: 20px;
+        padding: 10px 0px;
+    }
+
+    .cardRight .col-sm-6 {
+        padding: 0;
+    }
+
+    .persnldetails .detailsForm .promoCodes a {
+        bottom: 30px;
+    }
+
+    .btmPayments {
+        padding-bottom: 45px;
+    }
+
+    .persnldetails .detailsInner .detailsForm {
+        padding-right: 0px;
+    }
+
+    /*personal-details end*/
+    /* search start */
+    .search_btn button {
+        width: 53%;
+    }
+
+    .search_btn {
+        text-align: center;
+    }
+
+    .ser_frm label {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .ser_frm .col-sm-3 {
+        padding: 0;
+    }
+
+    .search_btn button {
+        margin-top: 15px;
+    }
+
+    .filter_sec h2 {
+        font-size: 16px;
+    }
+
+    .filter_sec a {
+        font-size: 16px;
+    }
+
+    .filter_sec a img {
+        margin-right: 5px;
+    }
+
+    .eros_row .col-sm-3 {
+        width: 35%;
+        display: inline-block;
+        float: left;
+    }
+
+    .eros_row .col-sm-9 {
+        width: 65%;
+        display: inline-block;
+        float: left;
+    }
+
+    .quick_lin {
+        display: inline-block;
+    }
+
+    .loc_row {
+        margin-bottom: 55px;
+    }
+
+    .eros_lt {
+        height: 286px;
+    }
+
+    .eros_rt a.quick {
+        margin-left: 0;
+        margin-bottom: 8px;
+           padding-right: 98px;
+    }
+
+    /* search end */
+    /* store start */
+    .orange_sec {
+        padding: 20px 15px 50px;
+        margin-top: 20px;
+    }
+
+    .nailmain {
+        padding-right: 0;
+    }
+
+    .rev_con p {
+        margin-top: 15px;
+    }
+
+    .sort_sec a.sort {
+        font-size: 14px;
+        padding: 5px 8px;
+    }
+
+    .filDrop_content {
+        top: 29px;
+    }
+
+    .days_list ul li span {
+        float: right;
+    }
+
+    .store_sec {
+        height: 233px;
+    }
+
+    /* store end */
+
+    /*    detail Page Start*/
+
+    .option_left ul li {
+        width: auto;
+        margin-right: 10px;
+        margin-bottom: 0;
+    }
+
+    .option_left ul li:last-child {
+        margin-right: 0;
+    }
+
+    .option_list .col-sm-3.leftTabs,
+    .option_list .col-sm-9.rgtBoxs {
+        width: 100%;
+        display: block;
+    }
+
+    .option_left {
+        overflow-x: scroll;
+    }
+
+    .option_left ul {
+        display: block;
+        min-width: 1140px;
+    }
+
+    /*    Confirmation Page Start*/
+
+    .confirmation .confirmTop .confirmInner {
+        display: block;
+    }
+
+    .confirmation .confirmTop .confirmInner .confirmLeft .confirmDtl {
+        padding-right: 0px;
+    }
+
+    .confirmation .confirmTop .confirmRight {
+        display: block;
+    }
+
+    .confirmation .confirmTop .confirmRight .scheduleBtn {
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .confirmation .confirmTop .confirmRight .scheduleBtn a {
+        display: inline-block;
+        margin-bottom: 0;
+        margin-right: 10px;
+    }
+
+    .confirmation .confirmTop .confirmRight .scheduleBtn a:last-child {
+        margin-right: 0;
+    }
+
+    .confirmation .confirmTop .confirmRight {
+        display: block;
+        width: 100%;
+        float: unset;
+    }
+
+    .confirmation .confirmTop .confirmDtl .schedule p {
+        line-height: 22px;
+    }
+
+    .confirmation .confirmTop {
+        padding: 30px 30px;
+    }
+
+    .confirmationBtm .nailmain {
+        width: 100%;
+    }
+
+    .confirmation {
+        padding: 40px 0;
+    }
+
+    .confirmation .confirmationBtm {
+        padding: 15px 0;
+    }
+
+    .browseCity .cityAvailabel {
+        padding-bottom: 10px;
+    }
+
+    .browseCity .browseBtm ul li {
+        margin-bottom: 15px;
+    }
+
+    .discTreatment .workBeautishian .treatmentBoxs .treatmentName {
+        height: 150px;
+    }
+
+    .discTreatment .treatmentInner .workBeautishian .col-sm-4:last-child .treatmentBoxs {
+        margin-bottom: 0;
+    }
+
+    .browseCity .locationMap {
+        height: auto;
+    }
+
+    /*    Confirmation Page End*/
+
+    .option_left::-webkit-scrollbar-thumb {
+        background-color: var(--color-orange);
+        border: 2px solid var(--color-orange);
+        border-radius: 2px;
+        width: 40%;
+    }
+
+    .option_right {
+        margin-top: 20px;
+    }
+
+    /*    Detail Page StartB*/
+
+    .option_list {
+        padding: 40px 0;
+    }
+
+    .option_right h3 {
+        font-size: 21px;
+    }
+
+    .option_right form .form-group .btn {
+        margin-top: 35px;
+        padding: 8px 30px;
+    }
+
+    .booking_upper .col-sm-2,
+    .booking_upper .col-sm-4 {
+        display: inline-block;
+    }
+
+    .booking_lower .col-sm-2,
+    .booking_lower .col-sm-4,
+    .booking_lower .col-sm-6 {
+        display: inline-block;
+        float: left;
+    }
+
+    .booking_lower .col-sm-4 {
+        float: right;
+    }
+
+    .method_inner .form_inner .col-sm-3 {
+        padding: 0;
+    }
+
+    .method_inner .form_inner .col-sm-3 .pay_card {
+        padding-top: 20px;
+    }
+
+    .pay_btn .btn {
+        padding: 7px 40px;
+        margin-right: 0;
+    }
+
+    .pay_btn .btn1 {
+        margin-right: 0;
+        padding: 8px 40px;
+    }
+
+    .coupons_card {
+        justify-content: space-between;
+    }
+
+    .option_right .coupnCodes {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .copan_middle h2,
+    .copan_middle p,
+    .copan_middle ul li:first-child {
+        margin-left: 0;
+    }
+
+    .copan_middle {
+        padding-right: 20px;
+    }
+
+    .invite_inner h5,
+    .invite_icon h2 {
+        font-size: 18px;
+    }
+
+    .option_right .invite_btn .btn3 {
+        width: auto;
+        padding: 7px 10px;
+        font-size: 16px;
+    }
+
+    .option_right .invite_input .form-control {
+        font-size: 17px;
+    }
+
+    .invite_icon ul li {
+        height: 45px;
+        width: 45px;
+    }
+
+    .about_beauty_text p {
+        font-size: 16px;
+    }
+
+    .option_list .col-sm-9.rgtBoxs {
+        padding-left: 20px;
+    }
+
+    .browseCity .browseInner .locationMap img {
+        height: auto;
+    }
+
+    .option_left ul {
+        display: block;
+        min-width: 1044px;
+        margin-bottom: 10px;
+    }
+
+    /*    Detail Page End*/
+.eros_rt a.venue {
+    padding: 11px 69px;
+}
+.remove a {
+    margin-top: -60px;
+}
+.workBeYoou {
+    margin: 0 -15px;
+    padding: 50px 0 0;
+}
+.discTreatment .treatmentInner .workBeYoou h2 {
+    margin: 25px 0;
+}
+}
+
+@media(max-width:560px) {
+  
+    .coupons_card .col-sm-3 {
+        width: 35%;
+        float: left;
+    }
+    .eros_rt a.quick {
+    padding-right: 50px;
+}
+
+    .coupons_card .col-sm-7 {
+        width: 65%;
+        float: left;
+    }
+
+    .choo_sec p {
+        font-size: 18px;
+    }
+
+    .getListed .set > a {
+        font-size: 20px;
+    }
+
+    .getListed .content p {
+        font-size: 16px;
+    }
+
+    .login {
+        margin-top: 65px;
+        padding: 30px 0 55px;
+    }
+
+    .booking_area .total_rder {
+        margin-top: 36px;
+    }
+
+    .booking_area .booking_text .hard_para {
+        width: 255px;
+    }
+
+    /*    Home Page Start*/
+
+    .banner .appointInner h2 {
+        font-size: 17px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+
+    .banner {
+        padding: 50px 0 60px;
+    }
+
+    .banner .appointInner form label {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .banner .appointInner p {
+        padding: 20px 0px 0px;
+    }
+
+    .discTreatment .treatmentInner h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .footer .leftContent h2 {
+        font-size: 22px;
+        line-height: 25px;
+    }
+
+    .footer .footContent {
+        margin-bottom: 23px;
+    }
+
+    .footer .footList,
+    .footer .socialBox {
+        width: 100%;
+        display: block;
+    }
+
+    .footer .footList {
+        margin-bottom: 20px;
+    }
+
+    .footer .socialApp a {
+        float: unset;
+        width: 140px;
+        margin-bottom: 0;
+        margin-right: 20px;
+        display: inline-block;
+    }
+
+    .footer .socialApp a:last-child {
+        margin-right: 0;
+    }
+
+    .footer .socialIcon {
+        text-align: center;
+    }
+
+    .footer .socialIcon {
+        margin-top: 15px;
+    }
+
+    .footer .socialBox {
+        text-align: center;
+    }
+
+    .footer {
+        padding: 20px 0;
+    }
+
+    .footer .copyright p {
+        margin-top: 5px;
+    }
+
+    .discTreatment .treatmentInner .treatmentOptn .col-sm-4 {
+        width: 100%;
+        float: unset;
+        margin: 0 auto;
+    }
+
+    .discTreatment .treatmentBoxs .treatmentDesign {
+        width: 310px;
+        height: 380px;
+        margin: 0 auto;
+        float: unset;
+    }
+
+    .banner .appointInner {
+        float: unset;
+        margin: 0 auto;
+    }
+
+    .browseCity .browseBtm ul li a {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .browseCity .browseBtm ul li {
+        width: 33%;
+    }
+
+    .header .logo {
+        width: 150px;
+    }
+
+    .header .menuBar ul li {
+        margin: 3px 5px 0;
+    }
+
+    .header .menuBar ul li a {
+        font-size: 15px;
+    }
+
+    .header {
+        padding: 20px 0;
+    }
+
+    .banner,
+    .privacy,
+    .my_booking,
+    .confirmation,
+    .option_list,
+    .persnldetails,
+    .login,
+    .main {
+        margin-top: 101px;
+    }
+
+    /*    Home Page End*/
+
+    .my_booking {
+        /* margin-top: 80px; */
+    }
+
+    .booking_area .booking_text h3 {
+        font-size: 20px;
+    }
+
+    .booking_area .booking_text p {
+        font-size: 14px;
+    }
+
+    .booking_area .booking_text span {
+        font-size: 14px;
+    }
+
+    .booking_area .booking_text_1 .fa-times {
+        font-size: 15px;
+    }
+
+    .booking_area .total_rder span {
+        font-size: 20px;
+    }
+
+    .booking_area .total_rder {
+        padding: 6px 15px;
+    }
+
+    .booking_area_inner .checkbtn button.checkbtn_inner {
+        padding: 10px 25px;
+    }
+
+    .booking_area_inner .checkbtn {
+        margin-top: 40px;
+    }
+
+    .booking_area_inner .bok_text label {
+        margin-top: 20px;
+    }
+
+    .privacy .privacy_all h3 {
+        font-size: 20px;
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+
+    .privacy .privacy_all p {
+        font-size: 16px;
+        line-height: 24px;
+        margin-top: 10px;
+
+    }
+
+    .privacy {
+        /* margin-top: 55px; */
+    }
+
+    .login_outer .col_text_left p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .log_btn {
+        margin-top: 20px;
+    }
+
+    .form_all .inner_text h3 {
+        font-size: 32px;
+    }
+
+    .booking_area_inner .form-group .log_email {
+        padding: 10px 0;
+    }
+
+    /*personal-details starts*/
+
+    .persnldetails .detailsForm .form-group label {
+        margin-right: 53px;
+    }
+
+    .persnldetails .detailsForm .paymentsCard .radioTypes label {
+        font-size: 16px;
+    }
+
+    .persnldetails form .detailsForm input {
+        margin-bottom: 20px;
+        padding: 8px 0px;
+    }
+
+    /*personal-details end*/
+    /* search start */
+    .filter_sec a {
+        margin-bottom: 15px;
+    }
+
+    .filter_sec h2 {
+        margin-bottom: 0px;
+    }
+
+    .logo_sm {
+        display: none;
+    }
+
+    .eros_row .col-sm-3 {
+        width: 100%;
+
+    }
+
+    .eros_row .col-sm-9 {
+        width: 100%;
+
+    }
+
+    .eros_rt {
+        padding: 20px 15px;
+    }
+
+    .filter_sec a {
+        margin-bottom: 0px;
+    }
+
+    .filter_sec h2 {
+        margin-bottom: 10px;
+    }
+
+    .filter_sec a.filter_sec1 {
+        margin-bottom: 10px;
+    }
+
+    /* search end */
+    /* store start */
+    .store_re_lt h3 {
+        font-size: 27px;
+    }
+
+    .store_review .col-sm-8 {
+        padding: 0;
+    }
+
+    .store_rev {
+        padding: 30px 0px 50px;
+    }
+
+    .store_re_lt p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .lor_row {
+        padding-bottom: 15px;
+
+    }
+
+    /* store end */
+
+    /*    payment start for 560*/
+    .upp {
+        margin-top: -34px !important;
+
+    }
+
+    .invite_icon ul li {
+        margin-right: 10px;
+    }
+
+    .booking_upper .col-sm-4 {
+        width: 100%;
+    }
+
+    .upper_mid {
+        text-align: left;
+    }
+
+    .booking_upper .reshedule {
+        width: auto;
+        float: right;
+    }
+
+    .lowwer_list ul li {
+        font-size: 12px;
+        line-height: 20px;
+        padding-left: 25px;
+    }
+
+    .lowwer_list ul li:before {
+        left: 13px;
+        top: 7px;
+    }
+
+    .copan_middle ul li:first-child {
+        margin-left: 0px;
+    }
+
+    .copan_middle h2 {
+        margin-left: 0px;
+    }
+
+    .coupons_card {
+        display: block;
+    }
+
+    /* .coupons_card .col-sm-7 {
+        width: 220px;
+    } */
+
+    .copan_middle p {
+        margin-left: 0px;
+    }
+
+    .copan_right p {
+        text-align: center;
+        width: 100%;
+        padding: 7px 15px;
+        margin-top: 10px;
+    }
+
+    .coupons_card .col-sm-3 {
+        width: 100%;
+    }
+
+    .option_list {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .option_right form .form-group .btn {
+        margin-top: 35px;
+    }
+
+    .option_right h3 {
+        font-size: 20px;
+    }
+
+    .option_left ul li a {
+        line-height: 22px;
+    }
+
+    /*    payment end*/
+
+    /*taps media start for 560*/
+    .about_beauty_text p {
+        margin-top: 22px;
+        font-size: 17px;
+    }
+
+    .about_beauty_text .about_last {
+        margin: 22px 0;
+    }
+
+    /*taps media end for 560*/
+
+    /*    Confirmation Page Start*/
+
+    .confirmation .confirmTop {
+        padding: 20px;
+    }
+
+    .confirmation .confirmTop .confirmRight .scheduleBtn a {
+        width: 120px;
+        line-height: 18px;
+    }
+
+    .confirmation .confirmTop .confirmInner .confirmLeft {
+        display: block;
+        text-align: center;
+    }
+
+    .confirmation .confirmTop .confirmInner .confirmLeft .confirmDtl {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .confirmation .confirmTop .confirmImg {
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+
+    .confirmation .confirmTop .confirmImg img {
+        width: 70px;
+        display: inline-block;
+    }
+
+    .confirmation .confirmTop .confirmDtl .schedule p {
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .confirmation .confirmTop .confirmDtl .schedule p span {
+        font-size: 18px;
+    }
+
+    .confirmation .confirmTop .confirmDtl .scheduleDtl p {
+        width: auto;
+        margin-right: 10px;
+        float: unset;
+    }
+
+    .confirmation .confirmTop .confirmDtl .scheduleDtl p:last-child {
+        margin-right: 0;
+    }
+
+    .option_left ul li a,
+    .option_left ul li a:hover,
+    .option_left ul li a.active {
+        padding: 7px 20px;
+    }
+
+    .copan_middle {
+        padding-right: 0;
+    }
+
+    /*    Confirmation Page End*/
+
+    /*ashma- for detail page*/
+    .booking_lower .col-sm-4 {
+        float: left;
+        width: 100%;
+    }
+
+    .charges {
+        text-align: left;
+    }
+
+    .booking_lower .col-sm-2 {
+        width: 24%;
+    }
+
+    .booking_lower .col-sm-6 {
+        padding: 0;
+        width: 72%;
+    }
+
+    .booking_lower .lower_img {
+        width: 100%;
+        height: auto;
+    }
+
+    .lowwer_list {
+        padding-top: 0;
+    }
+
+    .eros_detail .loc_row li a {
+        margin-bottom: 15px;
+    }
+
+    .eros_rt a.venue {
+        padding: 11px 45px;
+    }
+    .catList a {
+        padding: 11px 18px;
+    }
+    .catList li {
+        margin: 0 5px;
+    }
+    .header .logo {
+        width: 110px;
+        float: initial;
+    }
+    .mainHeader{
+        display: block;
+    }
+   
+    .header .menuBar{
+        float: initial;
+    }
+    .header .menuBar ul li {
+        margin: 5px 7px 0;
+    }
+    .header {
+        padding: 7px 0;
+    }
+}
+
+@media(max-width:414px) {
+    .header .menuBar ul li {
+        margin: 5px 6px 0;
+    }
+    
+    .coupons_card .col-sm-7 {
+        width: 100%;
+        float: left;
+    }
+
+    .loc_rowdeta {
+        margin-bottom: 28px;
+    }
+
+    .my_booking .booking_area .booking_area_inner {
+        padding: 0px 0px;
+        margin-bottom: 0;
+        ;
+    }
+
+    .choo_sec p {
+        font-size: 16px;
+    }
+
+    .login_outer .col_text_left1 {
+        margin-top: 0;
+    }
+
+    .modal_rht {
+        padding: 50px 20px 70px;
+    }
+
+    .login_btn button {
+        float: left;
+    }
+
+    .form_all .inner_text h3 {
+        font-size: 30px;
+    }
+
+    .booking_area .booking_text .hard_para {
+        width: 217px;
+    }
+
+    /*    Home Page Start*/
+
+    .banner .appointInner {
+        width: 100%;
+    }
+
+    .banner .appointInner form button {
+        /*        padding: 5px 5px;*/
+    }
+
+    .banner .appointInner p {
+        font-size: 13px;
+    }
+
+    .banner .appointInner form button {
+        font-size: 18px;
+    }
+
+    .discTreatment .treatmentInner h2 {
+        font-size: 25px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+
+    .discTreatment .treatmentInner .treatmentOptn .col-sm-4 {
+        width: 100%;
+    }
+
+    .footer .footRight .footMenu ul li a {
+        margin-bottom: 6px;
+    }
+
+    .footer .footLeft .socialApp {
+        margin-top: 20px;
+    }
+
+    .footer .footLeft h2 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .footer .footerTop .footRight .col-sm-6 {
+        padding: 0;
+    }
+
+    .footer .leftContent h2 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .footer .leftContent p {
+        font-size: 14px;
+    }
+
+    .footer .footList .col-sm-6 {
+        display: block;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .footer .footList .col-sm-6:last-child {
+        margin-bottom: 0;
+    }
+
+    .footer .socialApp a {
+        width: 120px;
+        margin-right: 10px;
+    }
+
+    .footer .socialIcon ul li a {
+        height: 30px;
+        width: 30px;
+    }
+
+    .footer .socialIcon ul li i {
+        font-size: 16px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+
+    .footer .feetMenu h3 {
+        font-size: 16px;
+    }
+
+    .footer .copyright p {
+        font-size: 13px;
+    }
+
+    .footer .leftContent p {
+        line-height: 20px;
+    }
+
+    .footer .leftContent p {
+        margin-top: 7px;
+    }
+
+    .footer .copyright {
+        margin-top: 10px;
+    }
+
+    .container,
+    .container-fluid {
+        padding: 0 15px;
+    }
+
+    .discTreatment .treatmentBoxs .treatmentDesign {
+        width: 100%;
+        height: auto;
+    }
+
+    .banner .appointInner form button {
+        line-height: 22px;
+    }
+
+    .browseCity .browseBtm ul li {
+        width: 50%;
+    }
+
+    .browseCity .browseBtm ul li {
+        margin-bottom: 10px;
+    }
+
+    
+
+    .header .menuBar ul li a {
+        font-size: 14px;
+    }
+
+    
+    /*    Home Page End*/
+
+    .my_booking .booking_area {
+        padding: 10px 10px;
+    }
+
+    .booking_area .booking_text span a {
+        margin-left: 4px;
+    }
+
+    .booking_area .booking_text span {
+        width: 54px;
+        display: inline-block;
+        text-align: right;
+    }
+
+    .bok_text input.icon_set {
+        margin-left: 10px;
+    }
+
+    .booking_area_inner .form-group .log_email {
+        padding: 10px 0;
+    }
+
+    /*personal-details start*/
+
+
+    .persnldetails .detailsForm .form-group label {
+        margin: 5px 0px;
+        margin-right: 12px;
+    }
+
+    .paymentsCard .form-group {
+        margin-bottom: 0;
+    }
+
+    /*personal-details end*/
+    /* search start */
+    .search_btn button {
+        width: 100%;
+        font-size: 16px;
+        padding: 8px 10px;
+    }
+
+    .ser_frm label {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .search_section {
+        padding: 20px 0px;
+    }
+
+    .filter {
+        padding: 25px 0px;
+    }
+
+    .eros_rt a.venue {
+        font-size: 16px;
+        padding: 6px 30px;
+    }
+
+    /* search end */
+    /* store start */
+    .store_re_lt h3 {
+        font-size: 24px;
+    }
+
+    .nail_sec h4 {
+        margin-top: 25px;
+    }
+
+    .triangle {
+        display: none;
+    }
+
+    .store_review .col-sm-4 {
+        padding: 0;
+    }
+
+    .store_review {
+        margin-bottom: 26px;
+    }
+
+    .reiv_re_lt ul li.col_yel {
+        font-size: 19px;
+    }
+
+    .face_img {
+        margin-right: 8px;
+    }
+
+    .day_r h4 {
+        font-size: 14px;
+    }
+
+    .rev_con p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+
+    .lor_row {
+        display: inline-block;
+    }
+
+    .store_loret {
+        text-align: left;
+        margin-top: 8px;
+    }
+
+    .store_loret a {
+        padding: 5px 12px;
+    }
+
+    /* store end */
+
+    /*    paymemt start*/
+    .booking_upper .col-sm-2 {
+        width: 90px;
+    }
+
+    .upper_right a {
+        padding-left: 5px;
+        margin-top: 2px;
+    }
+
+    /* .coupons_card .col-sm-7 {
+        width: 148px;
+    } */
+
+    .invite_icon ul li {
+        height: 38px;
+        width: 38px;
+    }
+
+    .option_right h3 {
+        font-size: 20px;
+    }
+
+    .option_left ul li a {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .option_left ul {
+        min-width: 1002px;
+    }
+
+    .option_list {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .option_right form .form-group .btn {
+        margin-top: 25px;
+    }
+
+    .option_right .invite_btn .btn3 {
+        padding: 6px 8px;
+    }
+
+    .invite_inner h5 {
+        font-size: 20px;
+    }
+
+    .invite_icon h2 {
+        font-size: 21px;
+    }
+
+    /*    paymemt end*/
+
+    /*    taps media start for 414*/
+
+    .about_beauty_text p {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+
+    .about_beauty_text .about_last {
+        margin: 20px 0;
+    }
+
+    /*    taps media end */
+
+    /*    Confirmation Page Start*/
+
+    .confirmation .confirmTop .confirmImg img {
+        width: 52px;
+    }
+
+    .confirmation .confirmTop .confirmRight .scheduleBtn a {
+        width: 110px;
+        line-height: 17px;
+        margin-right: 5px;
+    }
+
+    .confirmation .confirmTop .confirmDtl .schedule p img {
+        margin-right: 8px;
+    }
+
+    .footer .feetMenu ul li a {
+        line-height: 20px;
+    }
+
+    .nail_sec h4 {
+        font-size: 18px;
+    }
+
+    .confirmation .confirmTop .confirmDtl .scheduleDtl p {
+        margin-right: 6px;
+    }
+
+    .discTreatment .workBeautishian .treatmentBoxs .treatmentName {
+        height: 130px;
+    }
+
+    /*    Confirmation Page End*/
+
+    /*    Detail Page StartB*/
+
+    .option_right form .form-control {
+        font-size: 14px;
+    }
+
+    .option_right .invite_btn .btn3 {
+        font-size: 15px;
+    }
+
+    .pay_btn .btn {
+        margin-top: 30px;
+        font-size: 14px;
+    }
+
+    .option_right {
+        margin-top: 10px;
+    }
+
+    .invite_icon ul li {
+        margin-right: 9px;
+    }
+
+
+
+    .offer_inner {
+        margin-top: 15px;
+    }
+    .eros_rt a.quick {
+    padding-right: 10px;
+        font-size: 12px;
+}
+
+    /*    Detail Page End*/
+
+    .catList a.clickme {
+        padding: 11px 10px;
+        font-size: 18px;
+    }   
+}

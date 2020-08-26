@@ -1,0 +1,14 @@
+[28-Nov-2019 10:18:10 UTC] PHP Fatal error:  Cannot redeclare Api_model::LoginwithFacebook() in /home/y4vjealborkl/public_html/rims/application/models/Api_model.php on line 85
+[28-Nov-2019 10:18:59 UTC] PHP Fatal error:  Cannot redeclare Api_model::LoginwithFacebook() in /home/y4vjealborkl/public_html/rims/application/models/Api_model.php on line 85
+[28-Nov-2019 10:19:12 UTC] PHP Fatal error:  Cannot redeclare Api_model::LoginwithFacebook() in /home/y4vjealborkl/public_html/rims/application/models/Api_model.php on line 85
+[28-Nov-2019 10:21:12 UTC] PHP Fatal error:  Cannot redeclare Api_model::LoginwithFacebook() in /home/y4vjealborkl/public_html/rims/application/models/Api_model.php on line 85
+[28-Nov-2019 10:21:17 UTC] PHP Fatal error:  Cannot redeclare Api_model::LoginwithFacebook() in /home/y4vjealborkl/public_html/rims/application/models/Api_model.php on line 85
+[28-Nov-2019 10:21:29 UTC] PHP Fatal error:  Cannot redeclare Api_model::LoginwithFacebook() in /home/y4vjealborkl/public_html/rims/application/models/Api_model.php on line 85
+[28-Nov-2019 10:22:26 UTC] PHP Fatal error:  Cannot redeclare Api_model::LoginwithFacebook() in /home/y4vjealborkl/public_html/rims/application/models/Api_model.php on line 85
+[28-Nov-2019 10:23:42 UTC] PHP Fatal error:  Cannot redeclare Api_model::LoginwithFacebook() in /home/y4vjealborkl/public_html/rims/application/models/Api_model.php on line 85
+[29-Nov-2019 07:16:12 UTC] PHP Fatal error:  Cannot use [] for reading in /home/y4vjealborkl/public_html/rims/application/controllers/Api.php on line 228
+[02-Dec-2019 08:46:35 CET] PHP Fatal error:  Cannot redeclare Api_model::checkfavourites() in /home/y4vjealborkl/public_html/rims/application/models/Api_model.php on line 271
+[02-Dec-2019 08:47:02 CET] PHP Fatal error:  Cannot redeclare Api_model::checkfavourites() in /home/y4vjealborkl/public_html/rims/application/models/Api_model.php on line 271
+[02-Dec-2019 08:47:02 CET] PHP Fatal error:  Cannot redeclare Api_model::checkfavourites() in /home/y4vjealborkl/public_html/rims/application/models/Api_model.php on line 271
+[02-Dec-2019 08:47:19 CET] PHP Fatal error:  Cannot redeclare Api_model::checkfavourites() in /home/y4vjealborkl/public_html/rims/application/models/Api_model.php on line 271
+[02-Dec-2019 08:47:39 CET] PHP Fatal error:  Cannot redeclare Api_model::checkfavourites() in /home/y4vjealborkl/public_html/rims/application/models/Api_model.php on line 271

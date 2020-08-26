@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.8" height="16.8" viewBox="0 0 16.8 16.8">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;stroke-width:.8px}
+        </style>
+    </defs>
+    <g id="preferences" transform="rotate(90 9.936 8.336)">
+        <path id="Line_22" d="M0 0h9" class="cls-1" data-name="Line 22" transform="translate(9 3.871)"/>
+        <path id="Line_23" d="M0 0h2" class="cls-1" data-name="Line 23" transform="translate(2 3.871)"/>
+        <path id="Rectangle_164" d="M0 0h3v4H0z" class="cls-1" data-name="Rectangle 164" transform="translate(4 1.871)"/>
+        <path id="Line_24" d="M0 0h2" class="cls-1" data-name="Line 24" transform="translate(16 9.871)"/>
+        <path id="Line_25" d="M0 0h9" class="cls-1" data-name="Line 25" transform="translate(2 9.871)"/>
+        <path id="Rectangle_165" d="M0 0h3v4H0z" class="cls-1" data-name="Rectangle 165" transform="translate(11 7.871)"/>
+        <path id="Line_26" d="M0 0h9" class="cls-1" data-name="Line 26" transform="translate(9 15.871)"/>
+        <path id="Line_27" d="M0 0h2" class="cls-1" data-name="Line 27" transform="translate(2 15.871)"/>
+        <path id="Rectangle_166" d="M0 0h3v4H0z" class="cls-1" data-name="Rectangle 166" transform="translate(4 13.871)"/>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.836" height="12.455" viewBox="0 0 21.836 12.455">
+    <defs>
+        <style>
+            .cls-1{fill:#fe5a1d;stroke:#fff;stroke-width:.2px}
+        </style>
+    </defs>
+    <g id="road" transform="translate(.105 -70.306)">
+        <path id="Path_2208" d="M21.566 219.7L14 208.163a.36.36 0 0 0-.3-.163H7.929a.361.361 0 0 0-.3.163L.059 219.7a.36.36 0 0 0 .3.558h20.9a.36.36 0 0 0 .3-.558zM8.124 208.721h.349l-5.662 10.813H1.028zm3.049 10.813v-1.442h-.721v1.442H3.627l5.659-10.813h1.167v.36h.721v-.36h1.166L18 219.534zm7.641 0l-5.659-10.813h.345l7.1 10.813zm0 0" class="cls-1" data-name="Path 2208" transform="translate(0 -137.594)"/>
+        <path id="Path_2209" d="M232 240h.721v.721H232zm0 0" class="cls-1" data-name="Path 2209" transform="translate(-221.548 -168.152)"/>
+        <path id="Path_2210" d="M232 272h.721v1.081H232zm0 0" class="cls-1" data-name="Path 2210" transform="translate(-221.548 -198.711)"/>
+        <path id="Path_2211" d="M232 312h.721v1.442H232zm0 0" class="cls-1" data-name="Path 2211" transform="translate(-221.548 -236.909)"/>
+        <path id="Path_2212" d="M232 368h.721v1.8H232zm0 0" class="cls-1" data-name="Path 2212" transform="translate(-221.548 -290.386)"/>
+    </g>
+</svg>
